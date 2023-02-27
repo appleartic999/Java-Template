@@ -1,0 +1,1 @@
+# Java Competitive Programming Template
